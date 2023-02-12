@@ -1,0 +1,45 @@
+h1{
+        color :black;
+        text-align: center;
+      }
+body {
+  background-image: url(https://pixnio.com/free-images/2017/05/18/2017-05-18-11-10-32.jpg);
+ background: repeat:no-repeat;
+ background-size: 100% ;
+text-align:center ;
+ color: black;
+ }
+label{
+  width: 100%;
+  display: inline-block;
+  margin: 0.2;
+  font-size: 16px;
+  font-weight: bold;
+
+
+}
+form{
+  padding: 20px 40px;
+  border-radius: 50px;
+}
+input{
+  padding:3px;
+  margin: 5px;
+  font-size: 16px;
+  
+}
+form button:hover {
+    background-color:grey;
+    color: #333;
+  }
+  form button {
+    width: 120px;
+    height: 40px;
+    background-color: #333;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+  }
